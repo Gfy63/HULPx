@@ -1,0 +1,31 @@
+
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+hulpx_Dump KEYWORD2
+HULPx_ms_to_ulp_tick_shift KEYWORD2
+HULPx_ms_to_ulp_ticks KEYWORD2
+HULPx_process_macros_and_load KEYWORD2
+
+#######################################
+# Structure (KEYWORD3)
+#######################################
+
+######################################
+# Constants (LITERAL1)
+#######################################
+M_JSRL LITERAL1
+M_MULR LITERAL1
+M_DIVR LITERAL1
+M_PCTR LITERAL1
+M_PWMI LITERAL1
+M_PWMR LITERAL1
+

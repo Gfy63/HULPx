@@ -1,32 +1,13 @@
-# Prerequisites
-*.d
+#Default
+.pio
+.vscode
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+#Folders
+lib
+test
+include
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+#Files
+platformio.ini
+.gitignore
+HULPx_test.cpp

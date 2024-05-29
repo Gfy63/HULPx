@@ -1,0 +1,26 @@
+{
+  "name": "HULPx",
+  "version": "0.0.2",
+  "description": "Extention of boarchuz/hulp for ULP marcos programming",
+  "keywords": "ulp, hulp, marcos",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Gfy63/HULPx.git"
+  },
+   "authors":
+  [
+    {
+      "name": "Gfy63",
+      "email": "mrgoofy@gmx.net",
+      "maintainer": true
+    }
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/Gfy63/HULPx/",
+  "dependencies": { 
+    "external-repro": "https://github.com/boarchuz/HULP.git"
+  },
+  "frameworks": ["Arduino"],
+  "platforms": "ESP32"
+}
