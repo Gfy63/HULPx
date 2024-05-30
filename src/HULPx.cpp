@@ -1,16 +1,8 @@
 /***********************************
- * @file	HULPx.h
+ * @file	HULPx.cpp
  * @author	Gfy63 (mrgoofy@gmx.net)
- * @brief	Extention for HULP https://github.com/boarchuz/HULP.git
- *			This provide aditional functions:
- *				- HULP_MULTIR()			Multiplication assubfunction.
- *				- HULP_DIV()			Division as subfunction.
- *				- HULP_GPIO_PWM_MS()	PWM generator on one GPIO in mSec.
  * 
- * @version 0.0.1
- * @date 2024-05-08
- * 
- * GPLv2 Licence https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+ * GPLv3 Licence https://www.gnu.org/licenses/gpl-3.0.html
  * 
  * @copyright 2024
  **********************************/
@@ -102,7 +94,6 @@ const char* ulpCmpSstr[] = {
 	"Scnt >= ",
 	"Scnt <="
 };
-
 
 /*----------------------------------
 	PUBLIC FUNCTION
