@@ -457,3 +457,5 @@ enum pwm_data_list {
 		/* Force pin high */ \
 		I_GPIO_SET( (_pin), 1 ),				/* Set pin to high */ \
 	M_LABEL( _lblNbr + _LBL_PWM_End )
+
+// End of 'HULPx_macros.h'
