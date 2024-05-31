@@ -1,6 +1,6 @@
 {
   "name": "HULPx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extention of boarchuz/hulp for ULP marcos programming",
   "keywords": "ulp, hulp, marcos, debug, dump, pwm",
   "repository":
