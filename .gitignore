@@ -6,6 +6,7 @@
 lib
 test
 include
+_Infos
 
 #Files
 platformio.ini
